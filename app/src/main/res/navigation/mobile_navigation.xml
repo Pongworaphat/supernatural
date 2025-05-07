@@ -12,7 +12,7 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_donate"
         android:name="com.example.foodwastevanish.ui.donate.DonateFragment"
         android:label="@string/title_donate"
         tools:layout="@layout/fragment_donate" />
@@ -21,7 +21,7 @@
         android:id="@+id/navigation_chat"
         android:name="com.example.foodwastevanish.ui.chat.ChatFragment"
         android:label="@string/title_chat"
-        tools:layout="@layout/fragment_donate" />
+        tools:layout="@layout/fragment_chat" />
 
     <fragment
         android:id="@+id/navigation_notifications"

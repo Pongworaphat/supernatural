@@ -28,7 +28,7 @@ class DonateFragment : Fragment() {
         _binding = FragmentDonateBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textDashboard
+        val textView: TextView = binding.textDonate
         dashboardViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }
