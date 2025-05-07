@@ -2,5 +2,6 @@
     <string name="app_name">foodwastevanish</string>
     <string name="title_home">Home</string>
     <string name="title_donate">Donate</string>
+    <string name="title_chat">Chat</string>
     <string name="title_notifications">Notifications</string>
 </resources>
