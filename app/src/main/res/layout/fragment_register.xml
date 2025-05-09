@@ -113,7 +113,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:backgroundTint="@drawable/blackbotton_1"
+            android:backgroundTint="@drawable/button_black"
             android:text="Register"
             android:textColor="@android:color/white" />
 
